@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600&display=swap');
+
+* {
+  margin: 0 auto;
+  font-family: 'Montserrat', sans-serif;
+}
+
+:root{
+    --clr-darkGray: #2d2d2d;
+    --clr-lightGray: #616161;
+    --clr-black: #000000;
+    --clr-textBlack: #1E1E1E;
+    --clr-white: #ffffff;
+    --clr-darkPurple: #410f70;
+    --clr-lightPurple: #faf6fe;
+}
